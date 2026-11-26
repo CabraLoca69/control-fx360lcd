@@ -1,0 +1,10 @@
+[Unit]
+Description=Pantalla LCD del ID-COOLING FX360
+
+[Service]
+ExecStart=/usr/bin/python3 @DIR@/daemon.py
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target

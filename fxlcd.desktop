@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=FX360 LCD
+Comment=Controlar la pantalla del cooler ID-COOLING FX360 LCD
+Exec=python3 @DIR@/fxlcd-gui.py
+Icon=video-display
+Terminal=false
+Categories=Utility;
+StartupWMClass=io.github.cabraloca69.fxlcd
