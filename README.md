@@ -58,3 +58,7 @@ El protocolo lo descifró [w1n-ror/fx_lcd_software-for-linux](https://github.com
 ## Aviso
 
 No está afiliado a ID-COOLING. Solo manda imágenes a la pantalla; no toca la bomba ni los ventiladores.
+
+## Licencia
+
+Dominio público ([Unlicense](LICENSE)): hacé lo que quieras con el código.
